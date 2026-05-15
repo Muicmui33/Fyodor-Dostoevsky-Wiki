@@ -1,2 +1,2 @@
 # Fyodor-Dostoevsky-Wiki
-A lil wiki of Fyodor Dostoevsky from Bungo Stray Dogs
+This is like a mini wiki of the character Fyodor Dostoevsky from Bungo Stray Dogs. I made this because I really like the character and wanted to make a little page with my own analysis of the character. So I hope everyone can enjoy it as much as I did. I made it with VScode, like I do with most of my projects. There wasn't much I struggled with, except for creating a new project since I already had one going on. But as said, that wasn't so bad. Anyways, what I learned was that just because I've already once made a wiki doesn't mean that I will remember all the codes immediately for the next one, but that it would require practice. 
